@@ -1,0 +1,11 @@
+.cache/
+.env
+.DS_Store
+*_test.csv
+*_test.xlsx
+enriched_test_*.xlsx
+__pycache__/
+.packaging-venv/
+.pyinstaller-cache/
+build/
+dist/
